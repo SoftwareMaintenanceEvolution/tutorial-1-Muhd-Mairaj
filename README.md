@@ -3,7 +3,9 @@
 Hi! I'm Muhammad Mairaj, a student in the Framework-Based Software Design and Development course. 
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
-![My Image](./image.jpeg)
+<p align="left">
+  <img src="./image.jpeg" alt="Project Banner" width="400">
+</p>
 
 ## GitHub Profile
 You can view my [personalized GitHub profile](https://github.com/Muhd-Mairaj)
